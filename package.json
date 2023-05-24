@@ -1,0 +1,9 @@
+{
+	"name": "JayMQ",
+	"version": "0.0.1",
+	"description": "A music guess game to play with friends",
+	"dependencies": {
+		"express": "^4.18.2",
+		"socket.io": "^4.6.1"
+	}
+}
